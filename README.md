@@ -46,11 +46,6 @@ Length of each quarter (minutes): 12
 Seconds to attempt shot after gaining possession: 24
 </pre>
 
-<h2>Usage</h2>
-
-<p>To use this program, simply run it in your Java environment. The program does not require any external libraries beyond the standard Java library.</p>
-
-
 
 </body>
 </html>
