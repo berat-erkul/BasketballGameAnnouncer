@@ -50,9 +50,7 @@ Seconds to attempt shot after gaining possession: 24
 
 <p>To use this program, simply run it in your Java environment. The program does not require any external libraries beyond the standard Java library.</p>
 
-<h2>License</h2>
 
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 </body>
 </html>
